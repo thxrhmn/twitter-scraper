@@ -7,6 +7,8 @@ python3
 
 ## `INSTALL`
 ```
+git clone https://github.com/thxrhmn/twitter-scraper.git
+cd twitter-scraper
 pip3 install -r requirements.txt 
 ```
 
