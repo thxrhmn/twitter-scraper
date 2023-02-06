@@ -1,14 +1,14 @@
 # twitter-scrape
 
-# `PREQUISITE`
+## `PREQUISITE`
 python3
 
-# `INSTALL`
+## `INSTALL`
 ```
 pip3 install requirements.txt
 ```
 
-# `USAGE`
+## `USAGE`
 ```
 python3 --username trump --total 1000
 ```
