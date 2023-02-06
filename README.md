@@ -1,6 +1,6 @@
 # twitter-scrape
 
-(twitter)[twitter-scraper.png]
+![twitter](twitter-scraper.png)
 
 ## `PREQUISITE`
 python3
