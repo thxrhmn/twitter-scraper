@@ -12,5 +12,5 @@ pip3 install requirements.txt
 
 ## `USAGE`
 ```
-python3 twitter.py --username twitter --total 1000
+python3 twitter.py --username twitter --total 5000
 ```
