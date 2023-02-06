@@ -1,4 +1,4 @@
-# twitter-scrape
+# Twitter Scraper
 
 ![twitter](twitter-scraper.png)
 
